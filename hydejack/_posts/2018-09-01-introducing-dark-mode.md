@@ -1,6 +1,6 @@
 ---
 title: Creando un corrector ortográfico
-image: /assets/img/blog/dark-mode.jpg
+image: /assets/img/blog/Ortografia.jpg
 description: >
   Usando conceptos simples de estadística bayesiana generaremos un corrector ortográfico.
 ---
