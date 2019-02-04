@@ -4,8 +4,8 @@ order: 4
 image: /assets/img/blog/hydejack-8.png
 ---
 
-# About
-## Hydejack
+# Un poco más de mi
+## Jorge Luis Ramos Zavaleta
 
 The "Best Jekyll Theme by a Mile".
 {:.lead}
