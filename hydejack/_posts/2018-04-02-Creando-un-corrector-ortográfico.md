@@ -13,9 +13,7 @@ $$ s = arg \max\limits_{s} P (s|w) = arg \max\limits_{s} P (w|s)P (s) $$
 
 donde
 
-$$P(s)$$ es el modelo del lenguaje.
-
-y representa la probabilidad de que la palabra s sea la que se intentó escribir. 
+$$P(s)$$ es el modelo del lenguaje, y representa la probabilidad de que la palabra s sea la que se intentó escribir. 
 
 $$ P(w|s) $$ representa el modelo de error o canal ruidoso.
 
