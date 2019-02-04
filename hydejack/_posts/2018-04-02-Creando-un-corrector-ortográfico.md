@@ -17,4 +17,4 @@ $$P(s)$$ es el modelo del lenguaje, y representa la probabilidad de que la palab
 
 $$P (w|s)$$ representa el modelo de error o canal ruidoso.
 
-Esta probabilidad nos indica la probabilidad de que, por alguna razón, se escribió la palabra w en lugar de la “correcta” s.
+Esto último nos indica la probabilidad de que, por alguna razón, se escribió la palabra w en lugar de la “correcta” s.
