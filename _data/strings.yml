@@ -14,17 +14,17 @@ home: Home
 pages: Paginas
 posts: Posts
 about: Acerca de mi
-related_posts: Related Posts
-other_projects: Other Projects
-comments: Comments
-jump_to: Jump to
-navigation: Navigation
+related_posts: Post relacionados
+other_projects: Otros proyectos
+comments: Comentarios
+jump_to: Ir a
+navigation: Navegación
 social: Social
 links: Links
-pagination: Pagination
-newer: Newer
-older: Older
-back: Back
+pagination: Paginación
+newer: Nuevos
+older: Antiguos
+back: Regresar
 permalink: Permalink
 permalink_icon: icon-link
 templates: Templates (for web app)
@@ -56,7 +56,7 @@ error:
 # Separators
 # ---------------------------------------------------------------------------------------
 colon: ":"
-separator: "|"
+separator: "¬"
 category_start: "in "
 category_spearator: " / "
 tag_start: "on "
