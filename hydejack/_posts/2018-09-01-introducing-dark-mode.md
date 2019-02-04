@@ -11,4 +11,12 @@ El concepto es muy simple y esta basado en el uso de probabilidades bayesianas. 
 
 $$ s = arg \max\limits_{s} P (s|w) = arg \max\limits_{s} P (w|s)P (s) $$
 
-donde, $$P(s)$$ es el modelo del lenguaje, y representa la probabilidad de que la palabra s sea la que se intentó escribir. La probabilidad $$P(w|s)$$ representa el modelo de error o canal ruidoso, e indica la probabilidad de que, por alguna razón, se escribió la palabra w en lugar de la “correcta” s.
+donde
+
+$$P(s)$$ es el modelo del lenguaje.
+
+y representa la probabilidad de que la palabra s sea la que se intentó escribir. 
+
+$$P(w|s)$$ representa el modelo de error o canal ruidoso.
+
+Esta probabilidad nos indica la probabilidad de que, por alguna razón, se escribió la palabra w en lugar de la “correcta” s.
