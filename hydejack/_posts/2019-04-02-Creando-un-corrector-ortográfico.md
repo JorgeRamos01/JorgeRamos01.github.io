@@ -15,6 +15,6 @@ donde
 
 $$P(s)$$ es el modelo del lenguaje, y representa la probabilidad de que la palabra s sea la que se intentó escribir. 
 
-$$P (w|s)$$ representa el modelo de error o canal ruidoso.
+$$P (w/s)$$ representa el modelo de error o canal ruidoso.
 
 Esto último nos indica la probabilidad de que, por alguna razón, se escribió la palabra w en lugar de la “correcta” s.
