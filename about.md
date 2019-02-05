@@ -45,7 +45,7 @@ Mi transición durante la maestría ha sido de lo más interesante para mi. Prim
 Por otra parte, mis compañeros en la maestría en general provienen de diferentes carreras y oficios con lo que hemos logrado establecer y resolver problemas multi y transdiciplinarios. Así también, esto me ha permitido encontrar algunas cosas que debía subsanar para mejorar aún más, como fue el uso de la programación en paralelo o el desarrollo de software. </p>
 
 <p style='text-align: justify;'>
-Otro aspecto interesante que encontré muy placentero al trabajar durante la maestría es que se incentivaba el uso de todo tipo de datos: señales, índices, imágenes, texto, audio, video, datos georreferenciados; y se nos mostró que en general se puede tener un marco común para trabajar con todos estos tipos de datos, pero que cada una tiene su propia peculariedad y es lo que motiva la especialización en cada una de las áreas que comprende cada uno de ellos.
+Otro aspecto interesante que encontré muy placentero al trabajar durante la maestría es que se incentivaba el uso de todo tipo de datos: señales, índices, imágenes, texto, audio, video, datos georreferenciados; y se nos mostró que en general se puede tener un marco común para trabajar con todos estos tipos de datos, pero que cada una tiene su propia peculariedad y es lo que motiva la especialización en cada una de las áreas que comprende cada uno de ellos. </p>
 
 
 ### A Printable Resume
