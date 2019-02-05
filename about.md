@@ -22,7 +22,7 @@ Durante mi paso por la carrera de matemáticas tuve la oportunidad de trabajar c
 Por otra parte las <b>super variedades</b> se desarrollaron como objetos con una estructura algebraica extra comparadas con las variedades diferenciales, lo cual permite darle una estructura de anticonmutatividad y con ello pueden representarse algunas características propias del mundo  <b>microscópico</b>, donde la parte conmutativa representa el espacio de los bosones y la anticonmutativa el espacio de los fermiones.
 
 
-### A Free Blogging Theme
+### A Free Blogging Themegfdgfd
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
 <!--posts-->
