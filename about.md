@@ -35,20 +35,17 @@ Durante mi paso por esta carrera tuve la oportunidad de conocer varios temas mac
 La forma en que se suele enseñar economia actualmente ha permitido incorporar un enfoque más matemático-estadístico que se encuentra basado en resolver problemas de optimización con el fin de establecer la toma de decisiones óptimas. En particular, uno de los métodos base en la econometría es la <b>regresión lineal</b>, que es un instrumento muy conocido dentro de la estadística. Sin embargo, la forma en que se ha desarrollado la teoría de la regresión en economia ha permitido darle mucho más peso a la parte de causalidad mientras que en la estadística pura es generalmente aplicada simplemente como un modelo de predicción.
 </p>
 <p style='text-align: justify;'>
-Este concepto de causalidad es usualmente dado por hecho por aquellos que se dedican a hacer modelos de machine learning, principalmente porque no tienen un conocimiento estadístico suficiente que les permita respaldar la modelación que quieren hacer esto incluyendo el consejo de expertos en el área en el que se quiera desarrollar el modelo, por lo que pueden terminar dando diagnósticos erróneos, y por tanto predicciones completamente equivocadas que pueden terminar costando grandes montos de dinero asé como vidas en el caso de predicciones en el area médica. </p>
+Este concepto de <b>causalidad</b> es usualmente dado por hecho por aquellos que se dedican a hacer modelos de <b>machine learning</b>, principalmente porque no tienen un conocimiento estadístico suficiente que les permita respaldar la modelación que quieren hacer, esto último incluyendo la consulta de expertos en el área en el que se quiera desarrollar el modelo, por lo que pueden terminar dando diagnósticos erróneos, y por tanto predicciones completamente equivocadas que pueden terminar costando grandes montos de dinero asé como vidas en el caso de predicciones en el area médica. </p>
   
 ### Maestría en Cómputo Estadístico
+<p style='text-align: justify;'>
+Mi transición durante la maestría ha sido de lo más interesante para mi. Primero que nada tuve la oportunidad de estar en el <b>CIMAT</b> anteriormente y generalmente su enfoque esta completamente basado en un enfoque completamente teórico, pero la unidad en Monterrey se ha dedicado a hacer la labor de vinculación con las empresas privadas por lo que tienen una visión práctico-teórica y son capaces de traducir un problema industrial en una modelación estadística, computacional o matemática sin problemas, por lo que mi formación ha sido en base en este enfoque incluyendo algunas participaciones en la resolución de problemas industriales que llegan como proyectos al centro.</p>
 
-### A Free Blogging Themegfdgfd<
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+<p style='text-align: justify;'>
+Por otra parte, mis compañeros en la maestría en general provienen de diferentes carreras y oficios con lo que hemos logrado establecer y resolver problemas multi y transdiciplinarios. Así también, esto me ha permitido encontrar algunas cosas que debía subsanar para mejorar aún más, como fue el uso de la programación en paralelo o el desarrollo de software. </p>
 
-<!--posts-->
-
-
-### An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-<!--projects-->
+<p style='text-align: justify;'>
+Otro aspecto interesante que encontré muy placentero al trabajar durante la maestría es que se incentivaba el uso de todo tipo de datos: señales, índices, imágenes, texto, audio, video, datos georreferenciados; y se nos mostró que en general se puede tener un marco común para trabajar con todos estos tipos de datos, pero que cada una tiene su propia peculariedad y es lo que motiva la especialización en cada una de las áreas que comprende cada uno de ellos.
 
 
 ### A Printable Resume
