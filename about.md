@@ -19,6 +19,7 @@ Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 <p style='text-align: justify;'>
 Debido a mi formación adquirí un gusto por la econometría, así como por la modelación estadística en general, aunque la modelación matemática en forma de ecuaciones diferenciales y sistemas dinámicos no me es indiferente.
 </p>
+### Matemáticas
 <p style='text-align: justify;'>
 Durante mi paso por la carrera de matemáticas tuve la oportunidad de trabajar con algunos entes matemáticos conocidos como <b>super variedades</b> (super manifolds) que son generalizaciones del concepto de variedades diferenciales, que son objetos geométricos-topológicos que permiten generalizar el cálculo clásico multivariado permitiendo que se establezcan las reglas del calculo diferencial e integral en estructuras mas generales. Estas estructuras son muy importantes, tanto así que pueden ser consideradas como el lenguaje de la física moderna en la parte <b>macroscópica</b>, ya que representa de manera natural las ideas que se forman bajo la teoría de la relatividad.
 </p>
@@ -26,7 +27,17 @@ Durante mi paso por la carrera de matemáticas tuve la oportunidad de trabajar c
 Por otra parte las <b>super variedades</b> se desarrollaron como objetos con una estructura algebraica extra comparadas con las variedades diferenciales, lo cual permite darle una estructura de anticonmutatividad y con ello pueden representarse algunas características propias del mundo  <b>microscópico</b>, donde la parte conmutativa representa el espacio de los bosones y la anticonmutativa el espacio de los fermiones.
 </p>
 
-### A Free Blogging Themegfdgfd
+### Economía
+<p style='text-align: justify;'>
+A mi parecer, uno de los conceptos más importantes que se uno puede rescatar de una carrera de este tipo es el de <b>causalidad</b>. Debido a que esta representa el verdadero destino sobre el que deben ir enfocadas las políticas (decisiones) de una empresa o una economia completa. De no aplicarse las políticas a dichas variables causales entonces las soluciones tienden a formar soluciones parciales o temporales, y que no permiten generar trascendencia real.
+</p>
+<p style='text-align: justify;'>
+La forma en que se estila enseñar economia actualmente ha incorporado un enfoque más matemático-estadístico y se encuentra basado en resolver problemas de optimización con el fin de establecer las decisiones óptimas. En particular, la econometría tiene como base la <b>regresión lineal</b>, que es un instrumento muy conocido dentro de la estadística. Sin embargo, la forma en que se ha desarrollado la teoría de la regresión en economia ha permitido darle mucho más peso a la parte de causalidad mientras que en la estadística pura es generalmente aplicada como un modelo de predicción.
+</p>
+
+###Maestría en Cómputo Estadístico
+
+### A Free Blogging Themegfdgfd<
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
 
 <!--posts-->
