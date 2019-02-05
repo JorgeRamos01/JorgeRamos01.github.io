@@ -12,8 +12,9 @@ Un poco de mi pasado y presente.
 ![Screenshot](assets/img/blog/índice.jpeg){:data-width="1060" data-height="596"}
 Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.figure}
-
+<p align="justify">
 Soy originario de Xalapa, Veracuruz. Tengo dos licenciaturas por parte de la Universidad Veracruzana, una en Economía y otra en Matemáticas. Actualmente me encuentro en el último semestre de la maestría en cómputo estadístico del CIMAT en la ciudad de Monterrey, Nuevo León.
+</p>
 {:.lead}
 
 Debido a mi formación adquirí un gusto por la econometría, así como por la modelación estadística en general, aunque la modelación matemática en forma de ecuaciones diferenciales y sistemas dinámicos no me es indiferente.
