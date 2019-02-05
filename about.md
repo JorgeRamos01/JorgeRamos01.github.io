@@ -13,7 +13,7 @@ Un poco de mi pasado y presente.
 Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.figure}
 
-Soy originario de Xalapa, Veracuruz. Tengo dos licenciaturas por parte de la Universidad Veracruzana, una en Economáa y otra en Matemáticas. Debido a mi formación adquirí un gusto por la econometría, así como por la modelación estadística en general, aunque la modelación matemática en forma de ecuaciones diferenciales y sistemas dinámicos no me es indiferente.
+Soy originario de Xalapa, Veracuruz. Tengo dos licenciaturas por parte de la Universidad Veracruzana, una en Economía y otra en Matemáticas. Debido a mi formación adquirí un gusto por la econometría, así como por la modelación estadística en general, aunque la modelación matemática en forma de ecuaciones diferenciales y sistemas dinámicos no me es indiferente.
 {:.lead}
 
 Durante mi paso por la carrera de matemáticas tuve la oportunidad de trabajar con algunos entes matemáticos conocidos como **supervariedades** (super manifolds) que son generalizaciones del concepto de variedades diferenciales, que son objetos geométricos-topológicos que permiten generalizar el cálculo clásico multivariado permitiendo que se establezcan las reglas del calculo diferencial e integral en estructuras mas generales. Estas estructuras son muy importantes, tanto así que pueden ser consideradas como el lenguaje de la física moderna en la parte **macroscópica**, ya que representa de manera natural las ideas que se forman bajo la teoría de la relatividad.
