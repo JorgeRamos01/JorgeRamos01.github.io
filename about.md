@@ -10,7 +10,7 @@ image: /assets/img/blog/indice.jpeg
 Un poco de mi pasado y presente.
 {:.lead}
 
-![Screenshot](assets/img/blog/indice.jpeg){:.lead srcset="/assets/img/blog/indice.jpeg" data-width="1920" data-height="1080"}
+![Screenshot](assets/img/blog/indice.jpeg){:data-width="1060" data-height="596"}
 Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.figure}
 
