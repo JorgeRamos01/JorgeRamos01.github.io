@@ -18,9 +18,11 @@ Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.lead}
 <p style='text-align: justify;'>
 Debido a mi formación adquirí un gusto por la econometría, así como por la modelación estadística en general, aunque la modelación matemática en forma de ecuaciones diferenciales y sistemas dinámicos no me es indiferente.
-
+</p>
+<p style='text-align: justify;'>
 Durante mi paso por la carrera de matemáticas tuve la oportunidad de trabajar con algunos entes matemáticos conocidos como <b>super variedades</b> (super manifolds) que son generalizaciones del concepto de variedades diferenciales, que son objetos geométricos-topológicos que permiten generalizar el cálculo clásico multivariado permitiendo que se establezcan las reglas del calculo diferencial e integral en estructuras mas generales. Estas estructuras son muy importantes, tanto así que pueden ser consideradas como el lenguaje de la física moderna en la parte <b>macroscópica</b>, ya que representa de manera natural las ideas que se forman bajo la teoría de la relatividad.
-
+</p>
+<p style='text-align: justify;'>
 Por otra parte las <b>super variedades</b> se desarrollaron como objetos con una estructura algebraica extra comparadas con las variedades diferenciales, lo cual permite darle una estructura de anticonmutatividad y con ello pueden representarse algunas características propias del mundo  <b>microscópico</b>, donde la parte conmutativa representa el espacio de los bosones y la anticonmutativa el espacio de los fermiones.
 </p>
 
