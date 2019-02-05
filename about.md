@@ -1,7 +1,7 @@
 ---
 menu: true
 order: 4
-image: /assets/img/blog/hydejack-8.png
+image: /assets/img/blog/indice.jpeg
 ---
 
 # Un poco más de mi
@@ -10,8 +10,8 @@ image: /assets/img/blog/hydejack-8.png
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
-![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
-Hydejack's cover page on a variety of screens.
+![Screenshot](assets/img/blog/indice.jpeg){:.lead srcset="/assets/img/blog/indice.jpeg 1920w, /assets/img/blog/indice.jpeg 960w, /assets/img/blog/indice.jpeg 480w" data-width="1920" data-height="1080"}
+Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.figure}
 
 **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
