@@ -13,17 +13,12 @@ Un poco de mi pasado y presente.
 Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.figure}
 
-is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
-
-> Your presence on the web — A [blog], a [portfolio], and a [resume].
+Soy originario de Xalapa, Veracuruz. Tengo dos licenciaturas por parte de la Universidad Veracruzana, una en Economáa y otra en Matemáticas. Debido a mi formación adquirí un gusto por la econometría, así como por la modelación estadística en general, aunque la modelación matemática en forma de ecuaciones diferenciales y sistemas dinámicos no me es indiferente.
 {:.lead}
 
-There are two versions of **Hydejack**: The base version is free, while features that are specific to *professionals* are a payed upgrade.
+Durante mi paso por la carrera de matemáticas tuve la oportunidad de trabajar con algunos entes matemáticos conocidos como **supervariedades** (super manifolds) que son generalizaciones del concepto de variedades diferenciales, que son objetos geométricos-topológicos que permiten generalizar el cálculo clásico multivariado permitiendo que se establezcan las reglas del calculo diferencial e integral en estructuras mas generales. Estas estructuras son muy importantes, tanto así que pueden ser consideradas como el lenguaje de la física moderna en la parte **macroscópica**, ya que representa de manera natural las ideas que se forman bajo la teoría de la relatividad.
 
-[**Download Free**][kit]
--- or --
-[**Buy PRO**][buy]
-
+Por otra parte las **supervariedades** se desarrollaron como objetos con una estructura algebraica extra comparadas con las variedades diferenciales, lo cual permite darle una estructura de anticonmutatividad y con ello pueden representarse algunas características propias del mundo  **microscópico**, donde la parte conmutativa representa el espacio de los bosones y la anticonmutativa el espacio de los fermiones.
 
 ### A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
