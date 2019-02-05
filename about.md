@@ -32,10 +32,12 @@ Por otra parte las <b>super variedades</b> se desarrollaron como objetos con una
 A mi parecer, uno de los conceptos más importantes que se uno puede rescatar de una carrera de este tipo es el de <b>causalidad</b>. Debido a que esta representa el verdadero destino sobre el que deben ir enfocadas las políticas (decisiones) de una empresa o una economia completa. De no aplicarse las políticas a dichas variables causales entonces las soluciones tienden a formar soluciones parciales o temporales, y que no permiten generar trascendencia real.
 </p>
 <p style='text-align: justify;'>
-La forma en que se estila enseñar economia actualmente ha incorporado un enfoque más matemático-estadístico y se encuentra basado en resolver problemas de optimización con el fin de establecer las decisiones óptimas. En particular, la econometría tiene como base la <b>regresión lineal</b>, que es un instrumento muy conocido dentro de la estadística. Sin embargo, la forma en que se ha desarrollado la teoría de la regresión en economia ha permitido darle mucho más peso a la parte de causalidad mientras que en la estadística pura es generalmente aplicada como un modelo de predicción.
+La forma en que se estila enseñar economia actualmente ha incorporado un enfoque más matemático-estadístico y se encuentra basado en resolver problemas de optimización con el fin de establecer las decisiones óptimas. En particular, la econometría tiene como base la <b>regresión lineal</b>, que es un instrumento muy conocido dentro de la estadística. Sin embargo, la forma en que se ha desarrollado la teoría de la regresión en economia ha permitido darle mucho más peso a la parte de causalidad mientras que en la estadística pura es generalmente aplicada simplemente como un modelo de predicción.
 </p>
-
-###Maestría en Cómputo Estadístico
+<p style='text-align: justify;'>
+Este concepto de causalidad es usualmente dado por hecho por aquellos que se dedican a hacer modelos de machine learning, principalmente porque no tienen un conocimiento estadístico suficiente que les permita respaldar la modelación que quieren hacer esto incluyendo el consejo de expertos en el área en el que se quiera desarrollar el modelo, por lo que pueden terminar dando diagnósticos erróneos, y por tanto predicciones completamente equivocadas que pueden terminar costando grandes montos de dinero asé como vidas en el caso de predicciones en el area médica. </p>
+  
+### Maestría en Cómputo Estadístico
 
 ### A Free Blogging Themegfdgfd<
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
