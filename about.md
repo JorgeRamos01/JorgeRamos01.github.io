@@ -7,7 +7,7 @@ image: /assets/img/blog/indice.jpeg
 # Un poco más de mi
 ## Jorge Luis Ramos Zavaleta
 
-The "Best Jekyll Theme by a Mile".
+Un poco de mi pasado y presente.
 {:.lead}
 
 ![Screenshot](assets/img/blog/indice.jpeg){:.lead srcset="/assets/img/blog/indice.jpeg 1920w, /assets/img/blog/indice.jpeg 960w, /assets/img/blog/indice.jpeg 480w" data-width="1920" data-height="1080"}
