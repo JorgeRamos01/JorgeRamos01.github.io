@@ -12,7 +12,7 @@ Un poco de mi pasado y presente.
 
 ![Screenshot](assets/img/blog/indice.jpeg)
 
-**Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
+is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
 > Your presence on the web — A [blog], a [portfolio], and a [resume].
 {:.lead}
