@@ -9,10 +9,7 @@ image: /assets/img/blog/indice.jpeg
 
 Un poco de mi pasado y presente.
 {:.lead}
-![Math Screenshot](assets/img/blog/example-content-iii.jpg){:data-width="1060" data-height="596"}
-Hydejack uses KaTeX to efficiently render math.
-{:.figure}
-![Screenshot](assets/img/blog/indice.jpeg){:data-width="1060" data-height="596"}
+![Screenshot](assets/img/blog/índice.jpeg){:data-width="1060" data-height="596"}
 Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
 {:.figure}
 
