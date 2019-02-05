@@ -10,7 +10,9 @@ image: /assets/img/blog/indice.jpeg
 Un poco de mi pasado y presente.
 {:.lead}
 
-![Screenshot](assets/img/blog/indice.jpeg)
+![Screenshot](assets/img/blog/indice.jpeg){:.lead srcset="/assets/img/blog/indice.jpeg" data-width="1920" data-height="1080"}
+Un pequeño paseo por el parque natural de Chipinque en Nuevo León, México.
+{:.figure}
 
 is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
