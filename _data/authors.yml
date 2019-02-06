@@ -68,11 +68,9 @@ author1:
 # Another author (optional)
 author2:
   name: Jorge Luis Ramos Zavaleta
-  email: <mail@domain.tld>
+  email: jorge.ramos@cimat.mx
   about: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Economista, matemático
 
     Open `_data/authors.yml` to edit this text.
   picture: https://placehold.it/128x128
