@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Estadística, Matemáticas y Machine Learning
-slug: Estadística, Matemáticas y Machine Learning
+title: Mis proyectos
+slug: hydejack
 menu: true
 order: 1
 description: >
