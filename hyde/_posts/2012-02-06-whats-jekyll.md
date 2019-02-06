@@ -2,8 +2,8 @@
 layout: post
 title: Un viaje a Chipinque
 description: >
-  Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
-author: author2
+  Chipinque es un parque ecológico en las afueras de la ciudad de Monterrey, Nuevo León. Es un lugar muy agradable para disfrutar de la naturaleza en compañia de los amigos y familia, y es una buena opción para hacer un poco de ejercicio al aire libre.
+author: author1
 canonical_url: http://hyde.getpoole.com/2012/02/06/whats-jekyll/
 ---
 
