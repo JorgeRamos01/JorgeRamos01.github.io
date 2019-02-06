@@ -67,12 +67,13 @@ author2:
   name: Jorge Luis Ramos Zavaleta
   email: jorge.ramos@cimat.mx
   about: |
-    Economista, matemático
+    Economista, matemático y entusiasta de la Ciencia de Datos. Actualmente, estudiante de segundo año de 
+    la maestría en Cómputo Estadístico del CIMAT Campus Monterrey.
 
-    Open `_data/authors.yml` to edit this text.
-  picture: https://placehold.it/128x128
-  twitter: <username>
-  github: <username>
+  picture: https://avatars1.githubusercontent.com/u/35535120?s=460&v=4
+  # twitter: <username>
+  github: jorgeramos01
+  linkedin: jorgeramos01
   accent_color: "#268bd2"
   accent_image:
     background: "#202020"
