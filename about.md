@@ -72,4 +72,4 @@ Una vista rapida de mi CV.
                \end{array}\right)
 \end{aligned}
 $$ -->
--->
+
