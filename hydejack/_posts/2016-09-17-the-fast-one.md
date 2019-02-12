@@ -4,7 +4,7 @@ title: The Fast One (v5)
 description: >
   Hydejack v5 dramatically increases page load speed which matters to Google and visitors with slow connections alike.
 ---
-
+<!---
 This major release increases page load speed dramatically.
 The page now scores roughly 90/100 on [Google's PageSpeed Insights][gpsi] (up from ~50) and
 has a high score on similar tools.
@@ -50,3 +50,4 @@ help with loading speed as well (burred images get compressed by JPG much better
 [gpsi]: https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fqwtel.com%2Fhydejack%2F
 
 *[FOUC]: Flash Of Unstyled Content
+-->
