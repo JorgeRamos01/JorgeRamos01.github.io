@@ -4,7 +4,7 @@ title: JavaScripten (v6)
 description: >
   Hydejack v6 adds a layer of JavaScript, effectively turning the whole site into a single page app.
 ---
-
+<!---
 Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
 This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.
 
@@ -63,3 +63,4 @@ See the [the migration guide][upgrade] for instructions on how to upgrade.
 [writing]: ../../docs/writing.md
 
 *[FOUC]: Flash of Unstyled Content
+-->
