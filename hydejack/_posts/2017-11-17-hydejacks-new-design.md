@@ -6,7 +6,7 @@ description: >
 image: /assets/img/blog/caleb-george.jpg
 hide_image: true
 ---
-
+<!---
 While v7 brings an [insane amount of new stuff]({{ site.baseurl }}/CHANGELOG/#v700), the most notable change is the new background image.
 It is no longer *anti-selling* the theme.
 The old image was a blurred version of Napoleon Bonaparte, which was just... weird. I could tell the story of how this came to be,
@@ -47,3 +47,4 @@ It also features the best font on Google Fonts, and probably the world: [Roboto 
 
 
 [^1]: I should mention that these are only default values. Hydejack let's you choose your own. For inspiration, I've recently added [a gallery]({{ site.baseurl }}/projects/) to the site that shows a few variations of the theme.
+-->
