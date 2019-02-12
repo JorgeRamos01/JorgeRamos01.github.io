@@ -21,9 +21,9 @@ Features include:
 * Layout for posts grouped by year
 * Wide array of social media icons on sidebar.
 * Math blocks via [KaTeX](https://khan.github.io/KaTeX/).
-
+-->
 <!--more-->
-
+<!---
 **NOTE**: This post is outdated and only included for legacy reasons.
 See the [Documentation][docs]{:.heading.flip-title} for up-to-date instructions.
 {:.message}
