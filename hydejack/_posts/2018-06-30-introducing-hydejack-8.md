@@ -5,7 +5,7 @@ description: >
   Hydejack 8 is the best version of Hydejack yet.
   It introduces Cover Pages, Offline Support, and soon... Dark Mode.
 ---
-
+<!---
 After a long wait, Hydejack 8 finally sees the day of its release. It makes Hydejack look more elegant (no more super bold headings) and introduces features that make your site more impressive to first time visitors, while loading faster for repeat visitors.
 
 
@@ -53,3 +53,4 @@ In 8.1, buyers of the PRO version will have access to Dark Mode. At your choosin
 ### Offline Support ⚡️
 
 Version 8 introduces experimental offline support. This allows visitors to navigate your site while offline and continue reading articles when connectivity is lost. It also improves loading times for repeat visitors dramatically.
+-->
