@@ -6,7 +6,7 @@ description: >
   It also breaks things, hence a new major release number.
 excerpt_separator: <!--more-->
 ---
-
+<!---
 Hydejack v4 adds *a lot* of social media icons and introduces a new default layout.
 It also breaks things, hence a new major release number.
 
@@ -45,3 +45,4 @@ See the [Documentation][docs]{:.heading.flip-title} for up-to-date instructions.
 
 
 [docs]: ../../docs/README.md
+-->
