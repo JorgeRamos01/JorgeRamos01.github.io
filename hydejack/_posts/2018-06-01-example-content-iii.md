@@ -5,7 +5,7 @@ description: >
   A page showing Hydejack-specific markdown content.
 image: /assets/img/blog/example-content-iii.jpg
 ---
-
+<!---
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
 so that your content remains compatible with other Jekyll themes.
@@ -91,3 +91,6 @@ I'm faded, faded, faded.
 [ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
 [katex]: https://khan.github.io/KaTeX/
 [rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
+
+
+-->
