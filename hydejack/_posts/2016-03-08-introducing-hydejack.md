@@ -7,7 +7,7 @@ description: >
   You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
 excerpt_separator: <!--more-->
 ---
-
+<!---
 Unlike Hyde, Hydejack is very opinionated about how you are going to use it.
 
 ## Features
@@ -107,3 +107,4 @@ as each tag requires some setup work. I tend to think of it as categories that c
 
 [docs]: ../../docs/README.md
 [tag]: http://www.minddust.com/post/tags-and-categories-on-github-pages/
+-->
