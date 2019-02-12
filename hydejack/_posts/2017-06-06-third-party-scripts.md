@@ -4,6 +4,7 @@ title: Third Party Scripts (v6.3)
 description: >
   Hydejack v6.3 makes including third party plugins easier.
 ---
+<!---
 
 This release makes including third party plugins easier.
 Until now, the push state approach to loading new pages has been interfering with embedded `script` tags.
@@ -70,3 +71,4 @@ Maybe you won't even notice the difference.
 * Fix default color in gem-based theme
 
 [scripts]: ../../docs/scripts.md
+-->
