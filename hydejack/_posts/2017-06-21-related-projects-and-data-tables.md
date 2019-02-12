@@ -5,7 +5,7 @@ description: >
   In Hydejack v6.4 I've added a "Other Projects" section to the bottom of each project page,
   making it easier for users to navigate through your collection and discover other projects.
 ---
-
+<!---
 In this release I've added a "Other Projects" section to the bottom of each project page,
 making it easier for users to navigate through your collection and discover other projects.
 Also, it's now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).
@@ -90,3 +90,4 @@ There's many more minor changes and fixes that you can read below.
 * No more empty attributes on `img` tags.
 
 [writing]: ../../docs/writing.md
+-->
