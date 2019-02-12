@@ -4,6 +4,7 @@ title: Better Gem Support (v6.5)
 description: >
   Hydejack v6.5 includes various quality-of-life improvements, especially when using the gem-based version of the theme.
 ---
+<!---
 
 This maintenance release includes various quality-of-life improvements,
 especially when using the gem-based version of the theme.
@@ -112,3 +113,4 @@ To remove the border radius, open (or create) `_sass/my-inline.scss` and add the
 ~~~css
 .card, .pagination-item { border-radius: 0!important; }
 ~~~
+-->
