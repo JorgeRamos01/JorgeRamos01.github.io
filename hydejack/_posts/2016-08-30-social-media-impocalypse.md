@@ -16,9 +16,9 @@ It also breaks things, hence a new major release number.
   * `disqus` is now a top-level entry (moved from `author`).
   * Now has `font`, `font_accent` and `google_fonts` fields that are mandatory.
 * Now defaults to the `blog` layout, old style is available via `blog-by-tag` layout, see `archive.html`.
-
+-->
 <!--more-->
-
+<!---
 **NOTE**: This post is outdated and only included for legacy reasons.
 See the [Documentation][docs]{:.heading.flip-title} for up-to-date instructions.
 {:.message}
